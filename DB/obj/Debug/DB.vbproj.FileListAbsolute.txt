@@ -10,7 +10,6 @@ D:\VSS\TRISHALADEVI\VSS\TRISHALADEVI\VSS\TRISHALADEVI\DB\obj\Debug\DB.vbprojReso
 D:\GIT\TRISHALADEVI\DB\bin\Debug\DB.dll
 D:\GIT\TRISHALADEVI\DB\bin\Debug\DB.pdb
 D:\GIT\TRISHALADEVI\DB\bin\Debug\DB.xml
-D:\GIT\TRISHALADEVI\DB\obj\Debug\DB.vbprojResolveAssemblyReference.cache
 D:\GIT\TRISHALADEVI\DB\obj\Debug\DB.Resources.resources
 D:\GIT\TRISHALADEVI\DB\obj\Debug\DB.vbproj.GenerateResource.Cache
 D:\GIT\TRISHALADEVI\DB\obj\Debug\DB.dll
