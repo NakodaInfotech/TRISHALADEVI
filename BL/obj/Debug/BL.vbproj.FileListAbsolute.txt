@@ -19,9 +19,11 @@ D:\GIT\TRISHALADEVI\BL\bin\Debug\Interop.Microsoft.Office.Core.dll
 D:\GIT\TRISHALADEVI\BL\bin\Debug\stdole.dll
 D:\GIT\TRISHALADEVI\BL\bin\Debug\DB.pdb
 D:\GIT\TRISHALADEVI\BL\bin\Debug\DB.xml
-D:\GIT\TRISHALADEVI\BL\obj\Debug\BL.vbprojResolveAssemblyReference.cache
+D:\GIT\TRISHALADEVI\BL\obj\Debug\BL.vbproj.AssemblyReference.cache
 D:\GIT\TRISHALADEVI\BL\obj\Debug\BL.Resources.resources
-D:\GIT\TRISHALADEVI\BL\obj\Debug\BL.vbproj.GenerateResource.Cache
+D:\GIT\TRISHALADEVI\BL\obj\Debug\BL.vbproj.GenerateResource.cache
+D:\GIT\TRISHALADEVI\BL\obj\Debug\BL.vbproj.CoreCompileInputs.cache
+D:\GIT\TRISHALADEVI\BL\obj\Debug\BL.vbproj.Up2Date
 D:\GIT\TRISHALADEVI\BL\obj\Debug\BL.dll
 D:\GIT\TRISHALADEVI\BL\obj\Debug\BL.xml
 D:\GIT\TRISHALADEVI\BL\obj\Debug\BL.pdb
